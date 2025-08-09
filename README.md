@@ -1,2 +1,2 @@
-# machine-learning-using-python
+# machine-learning
  machine learning project
